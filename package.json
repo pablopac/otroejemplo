@@ -1,0 +1,14 @@
+{
+  "name": "nodeejemplo",
+  "version": "1.0.0",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo pablo.a.co@ieee.org",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
